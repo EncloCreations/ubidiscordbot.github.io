@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+body {
+    font-family: 'Lobster', cursive;cursor: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/106114/cursor.png) 32 32,move;
+}
+
+
+p {
+    margin: 0;
+}
+
+.subtext {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:0.4em;
+}
+
+.install {
+    text-decoration-line:none;
+}
+.section {
+  background-size: cover;
+  background-position: center;
+}
+
+.section-content {
+  text-align: center;
+  font-size: 3em;
+  color: #fff;
+}
+
+#section1 {
+  background-color: #FF82A9;
+}
+
+#section2 {
+  background-color: #7F95D1;
+}
+
+#section3 {
+  background-color: #F2BB05;
+}
+#section4 {
+  background-color: #01C76F;
+}
+#section5 {
+  background-color: #00b4ff;
+}
+#section6 {
+  background-color: #B17FC6;
+}
